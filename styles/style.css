@@ -169,3 +169,94 @@ main{
     padding: 33px;
     box-shadow: 0px 6px 50px 0 rgba(0, 0, 0, 0.06);
 }
+
+
+/* resume section */
+.summary-heading{
+    color: rgba(24, 24, 24, 1);
+    text-align: center;
+    margin-top: 130px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.summary-of-resume{
+    display: flex;
+    gap: 24px;
+    margin-top: 115px;
+}
+.col-heading{
+    color: rgba(71, 71, 71, 1);
+    font-size: 30px;
+    font-weight: bold;
+}
+.resume-title{
+    color: rgba(71, 71, 71, 1);
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.resume-subtitle{
+    color: rgba(117, 117, 117, 1);
+    font-size: 20px;
+    font-weight: 600; 
+    margin-top: 5px;  
+    margin-bottom: 10px;
+}
+.resume-des{
+    color: rgba(117, 117, 117, 1);
+    font-size: 16px;  
+    margin-top: 20px;   
+    margin-bottom: 30px;
+}
+.summary-section-btn{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+/* footer */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 115px;
+    margin-top: 115px;
+}
+.footer-des{
+    font-size: 18px;
+    color: rgba(71, 71, 71, 1);
+}
+#your-name{
+    display: block;
+    height: 60px;
+    background-color: #FFFFFF;
+    padding:18px 350px 18px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    border:none;
+}
+#email{
+    display: block;
+    height: 60px;
+    background-color: #FFFFFF;
+    padding:18px 350px 18px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    border:none; 
+    margin-top: 24px;   
+
+}
+#message{
+    display: block;
+    height: 60px;
+    background-color: #FFFFFF;
+    padding:18px 350px 18px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    border:none; 
+    max-width:461px ;
+    max-height:180px ;
+    margin-top: 24px;  
+    margin-bottom: 24px;  
+    
+}
+
